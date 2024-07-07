@@ -38,6 +38,9 @@ Collaborate with us on a research project or dataset
 Contribute to our open-source code repositories
 Join our community of practice to stay updated on our research and activities
 
+## Contact
+
+For more information about AgriSphere, please contact us at agrisphere@globalfoodandagricultural.org.
 
 ## License
 
